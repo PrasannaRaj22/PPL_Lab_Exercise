@@ -11,7 +11,6 @@ students :: [Student]
 students = [
 	("Prasanna", 1, [95, 92, 98, 90]),
 	("Harishkar", 3, [90, 88, 92, 85]),
-	("Pranish", 2, [75, 80, 85, 82]),
 	("David Billa", 4, [80, 75, 82, 78])]
 main :: IO ()
 main = do
